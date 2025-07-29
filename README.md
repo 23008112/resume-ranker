@@ -81,6 +81,11 @@ sentence-transformers
 scikit-learn
 PyMuPDF
 ```
+## Output
+<img width="1855" height="472" alt="image" src="https://github.com/user-attachments/assets/302c2eda-bf84-4f5c-8b18-2d8b47ef2e56" />
+<img width="1789" height="234" alt="image" src="https://github.com/user-attachments/assets/fe275bc7-d4c9-4b3e-872b-89b3b12a7da3" />
+<img width="1870" height="589" alt="image" src="https://github.com/user-attachments/assets/88e68d3c-6ea9-4df3-b604-d677da568dac" />
+
 
 ---
 
